@@ -19,26 +19,36 @@ https://github.com/dddmaster/docker-dovecot-postfix
 https://github.com/dddmaster/cstrike1.6podbot-docker
 
 ## [GAME] Monster-Z
-http://www.dddmaster.de/monsterz/
+![image](/projectimg/monsterz.gif)
+
+[Details](/monsterz/)
 
 ## [GAME] Office Hack
-http://www.dddmaster.de/officehack/
+![image](/projectimg/officehack.gif)
+
+[Details](/officehack/)
 
 ## [GAME] Monster-Z Orb Hunter
-http://www.dddmaster.de/orbhunter/
+![image](/projectimg/orbhunter.gif)
+
+[Details](/orbhunter/)
 
 ## [GAME] Monster-Z Chess
-http://www.dddmaster.de/mzchess/
+![image](/projectimg/chess.gif)
+
+[Details](/mzchess/)
 
 ## [WEB] One Word Reviews
-http://www.dddmaster.de/owr/
+![image](/projectimg/owr.gif)
+
+[Details](/owr/)
 
 ## [WEB] www.dddmaster.de
-http://www.dddmaster.de/dddmaster-de/
+![image](/projectimg/dddmaster.de.gif)
+
+[Details](/dddmaster-de/)
 
 ## [WEB] DDDCanvasEngine
 ![image](/projectimg/dddcanvasengine.gif)
 
--
-
-[DDD Canvas Engine](/dddcanvasengine/)
+[Details](/dddcanvasengine/)
