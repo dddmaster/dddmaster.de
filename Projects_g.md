@@ -6,10 +6,10 @@ https://github.com/dddmaster/kasm-naps2
 ## [icon name="docker" prefix="fa-brands"] Rss Downloader
 https://github.com/dddmaster/rss-downloader
 
-## [icon name="docker"] soul in docker
+## [icon name="docker" prefix="Brands"] soul in docker
 https://github.com/dddmaster/soul-docker
 
-## [icon name="docker"] Samba Webmin
+## [icon name="docker" class="fa-brands"] Samba Webmin
 https://github.com/dddmaster/docker-samba-webmin
 
 ## [icon name="docker"] Dovecot and Postfix
