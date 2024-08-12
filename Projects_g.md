@@ -1,21 +1,21 @@
 # Projects
 
-## [icon name="docker" prefix="brands"] Naps2 in Kasm with Brother driver
+## [icon name="docker" prefix="fa-brands"] Naps2 in Kasm with Brother driver
 https://github.com/dddmaster/kasm-naps2
 
 ## [icon name="docker" prefix="fa-brands"] Rss Downloader
 https://github.com/dddmaster/rss-downloader
 
-## [icon name="docker" prefix="Brands"] soul in docker
+## [icon name="docker" prefix="fa-brands"] soul in docker
 https://github.com/dddmaster/soul-docker
 
-## [icon name="docker" class="fa-brands"] Samba Webmin
+## [icon name="docker" prefix="fa-brands"] Samba Webmin
 https://github.com/dddmaster/docker-samba-webmin
 
-## [icon name="docker"] Dovecot and Postfix
+## [icon name="docker" prefix="fa-brands"] Dovecot and Postfix
 https://github.com/dddmaster/docker-dovecot-postfix
 
-## [icon name="docker"] Counterstrike 1.6 Server with podbot
+## [icon name="docker" prefix="fa-brands"] Counterstrike 1.6 Server with podbot
 https://github.com/dddmaster/cstrike1.6podbot-docker
 
 ## [icon name="gamepad"] ~~Monster-Z~~ [Details](/monsterz/)
