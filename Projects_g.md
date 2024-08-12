@@ -3,7 +3,7 @@
 ## [icon name="docker" prefix="brands"] Naps2 in Kasm with Brother driver
 https://github.com/dddmaster/kasm-naps2
 
-## [icon name="docker"] Rss Downloader
+## [icon name="docker" prefix="fa-brands"] Rss Downloader
 https://github.com/dddmaster/rss-downloader
 
 ## [icon name="docker"] soul in docker
