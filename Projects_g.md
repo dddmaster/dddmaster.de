@@ -1,6 +1,6 @@
 # Projects
 
-## [icon name="docker"] Naps2 in Kasm with Brother driver
+## [icon name="docker" prefix="brands"] Naps2 in Kasm with Brother driver
 https://github.com/dddmaster/kasm-naps2
 
 ## [icon name="docker"] Rss Downloader
