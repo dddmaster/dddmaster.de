@@ -18,37 +18,31 @@ https://github.com/dddmaster/docker-dovecot-postfix
 ## [DOCKER] Counterstrike 1.6 Server with podbot
 https://github.com/dddmaster/cstrike1.6podbot-docker
 
-## [GAME] Monster-Z
-![image](/projectimg/monsterz.gif)
+## [GAME] ~~Monster-Z~~ [Details](/monsterz/)
 
-[Details](/monsterz/)
+![image](https://www.dddmaster.de/projectimg/monsterz.gif)
 
-## [GAME] Office Hack
+## [GAME] ~~Office Hack~~ [Details](/officehack/)
 ![image](/projectimg/officehack.gif)
 
-[Details](/officehack/)
-
-## [GAME] Monster-Z Orb Hunter
+## [GAME] ~~Monster-Z Orb Hunter~~ [Details](/orbhunter/)
 ![image](/projectimg/orbhunter.gif)
 
-[Details](/orbhunter/)
-
-## [GAME] Monster-Z Chess
+## [GAME] ~~Monster-Z Chess~~ [Details](/mzchess/)
 ![image](/projectimg/chess.gif)
 
-[Details](/mzchess/)
-
-## [WEB] One Word Reviews
+## [icon name="globe"] ~~One Word Reviews~~ [Details](/owr/)
 ![image](/projectimg/owr.gif)
 
-[Details](/owr/)
-
-## [WEB] www.dddmaster.de
+## [icon name="globe"] www\.dddmaster\.de [Details](/dddmaster-de/)
 ![image](/projectimg/dddmaster.de.gif)
 
-[Details](/dddmaster-de/)
 
-## [WEB] DDDCanvasEngine
+## [WEB] ~~DDDCanvasEngine~~ [Details](/dddcanvasengine/)
 ![image](/projectimg/dddcanvasengine.gif)
 
-[Details](/dddcanvasengine/)
+<style>
+    h2 a {
+     font-size:0.5em;   
+    }
+</style>
